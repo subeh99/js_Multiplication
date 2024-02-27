@@ -1,0 +1,33 @@
+#body{
+    background-color: aquamarine;
+}
+#number{
+    height: 25px;
+    width: 51px;
+    background-color: #000303;
+    color: #f9f8f8;
+    border: 3px solid tomato;
+    transition: .4s;
+}
+#number:hover{
+    background-color: #f9f7f6;
+    color: black;
+    
+}
+#ul{
+    width: 150px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 3px solid gold;
+    background-color: blueviolet;
+    border-radius: 10px;
+    transition: .4s;
+}
+#ul:hover{
+    color: white;
+}
+h1{
+    font-size: 29px;
+    font-weight: 700;
+    color: #f60cc3;
+}
